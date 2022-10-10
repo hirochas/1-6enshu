@@ -4,5 +4,38 @@
   color: blue;
   box-sizing: border-box
  }
- 
- 
+
+   a {
+   text-decoration: none;
+ }
+
+ .box-1 {
+   height: 200px;
+   background-image: url(img/box1.jpg);
+   background-size: cover;
+   background-position: center;
+
+ }
+
+ .box-2 {
+   height: 200px;
+   background-image: url(img/box2.jpg);
+   background-size: cover;
+   background-position: center;
+ }
+
+  .box-3 {
+   height: 200px;
+   background-image: url(img/box3.jpg);
+   background-size: cover;
+   background-position: center;
+ }
+
+   .box-4 {
+   height: 200px;
+   background-image: url(img/box4.jpg);
+   background-size: cover;
+   background-position: center;
+ }
+
+
