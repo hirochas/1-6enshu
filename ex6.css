@@ -14,9 +14,8 @@
    background-image: url(img/box1.jpg);
    background-size: cover;
    background-position: center;
-
- }
-
+    }
+/*test*/
  .box-2 {
    height: 200px;
    background-image: url(img/box2.jpg);
